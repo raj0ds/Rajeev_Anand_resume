@@ -2,6 +2,13 @@
 
 You can use the [editor on GitHub](https://github.com/raj0ds/Rajeev_Anand_resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+## EDUCATION
+##### PGDCA
+Indra Gandhi National Open University (Jan 2021 - Present)
+
+## B.Sc. (Hons.)
+##### Veer Kunwar Singh University (2015 - 2018) 66%
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
