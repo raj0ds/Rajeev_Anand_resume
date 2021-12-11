@@ -36,8 +36,7 @@ You can use the [editor on GitHub](https://github.com/raj0ds/Rajeev_Anand_resume
 ###### •	Introduction to Data Science Specialization, Coursera (October 2021 – October 2021)
 ###### •	Data Visualization with Python, , Coursera (October 2021 – November 2021)
 
-## Project
-#### <a> <href> "https://jp-tok.dataplatform.cloud.ibm.com/analytics/notebooks/v2/a4903a9b-b6af-412f-bf96-d02d30872760/view?access_token=e3648f195b822dbf447528c18deb54c802dc2268b855c7a74b253b8804e904f8"></href> </a>
+
 
 
 
