@@ -19,6 +19,13 @@ Veer Kunwar Singh University (2015 - 2018)
 
 •	Lead CSAT team to provide good quality questions paper. 
 
+## SKILLS
+###### Python
+###### Machine Learning
+###### Data Visualization
+###### Data Analysis
+###### HTML
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
