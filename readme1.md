@@ -14,7 +14,9 @@ Veer Kunwar Singh University (2015 - 2018)
 ##### ForumIAS  (Academic Associate) Oct 2018 – Present
 ###### Day to day responsibilities:
 •	Prepare questions for UPSC aspirants
+
 •	Discuss doubts of UPSC aspirants
+
 •	Lead CSAT team to provide good quality questions paper. 
 
 
