@@ -6,8 +6,17 @@ You can use the [editor on GitHub](https://github.com/raj0ds/Rajeev_Anand_resume
 ##### PGDCA
 Indra Gandhi National Open University (Jan 2021 - Present)
 
-## B.Sc. (Hons.)
-##### Veer Kunwar Singh University (2015 - 2018) 66%
+##### B.Sc. (Hons.)
+Veer Kunwar Singh University (2015 - 2018)
+
+
+## WORK EXPERIENCE
+##### ForumIAS  (Academic Associate) Oct 2018 – Present
+###### Day to day responsibilities:
+•	Prepare questions for UPSC aspirants
+•	Discuss doubts of UPSC aspirants
+•	Lead CSAT team to provide good quality questions paper. 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
