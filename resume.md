@@ -33,4 +33,4 @@
 ###### •	Python Project for Data Science, Coursera (September 2021 – October 2021)
 ###### •	Data Analysis with Python, Coursera (October 2021 – October 2021)
 ###### •	Introduction to Data Science Specialization, Coursera (October 2021 – October 2021)
-###### •	Data Visualization with Python, , Coursera (October 2021 – November 2021)
+###### •	Data Visualization with Python, Coursera (October 2021 – November 2021)
