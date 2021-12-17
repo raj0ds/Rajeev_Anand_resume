@@ -14,6 +14,8 @@
 
 [Data Visualization with Python certificate.pdf](https://github.com/raj0ds/Certificates-Badges-link/files/7696779/Data.Visualization.with.Python.certificate.pdf)
 
+[SQL certificate FROM DATACAMP.pdf](https://github.com/raj0ds/Rajeev_Anand_resume/files/7735413/SQL.certificate.FROM.DATACAMP.pdf)
+
 
 # Certificates-Badges-link
 Here is the links of ceriticates and badges earned by me
