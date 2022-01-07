@@ -17,6 +17,14 @@
 [SQL certificate FROM DATACAMP.pdf](https://github.com/raj0ds/Rajeev_Anand_resume/files/7735413/SQL.certificate.FROM.DATACAMP.pdf)
 
 
+[Coursera Machine learning.pdf](https://github.com/raj0ds/Rajeev_Anand_resume/files/7831036/Coursera.Machine.learning.pdf)
+
+
+[SQL certificate FROM DATACAMP.pdf](https://github.com/raj0ds/Rajeev_Anand_resume/files/7831039/SQL.certificate.FROM.DATACAMP.pdf)
+
 # Certificates-Badges-link
 Here is the links of ceriticates and badges earned by me
 [Badges earned](https://www.credly.com/users/rajeev-anand.a2c19c5c/badges)
+
+# HackerRank Profile
+[HackerRank Profile](https://www.hackerrank.com/rajeevanand840)
