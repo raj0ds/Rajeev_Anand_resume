@@ -17,6 +17,9 @@
 [SQL certificate FROM DATACAMP.pdf](https://github.com/raj0ds/Rajeev_Anand_resume/files/7735413/SQL.certificate.FROM.DATACAMP.pdf)
 
 
+[Data Science Capstone Coursera.pdf](https://github.com/raj0ds/Rajeev_Anand_resume/files/7903589/Data.Science.Capstone.Coursera.pdf)
+
+
 [Coursera Machine learning.pdf](https://github.com/raj0ds/Rajeev_Anand_resume/files/7831036/Coursera.Machine.learning.pdf)
 
 
@@ -30,4 +33,4 @@ Here is the links of ceriticates and badges earned by me
 [HackerRank Profile](https://www.hackerrank.com/rajeevanand840)
 
 
-[Data Science Capstone Coursera.pdf](https://github.com/raj0ds/Rajeev_Anand_resume/files/7903589/Data.Science.Capstone.Coursera.pdf)
+
