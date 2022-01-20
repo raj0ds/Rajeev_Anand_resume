@@ -28,3 +28,6 @@ Here is the links of ceriticates and badges earned by me
 
 # HackerRank Profile
 [HackerRank Profile](https://www.hackerrank.com/rajeevanand840)
+
+
+[Data Science Capstone Coursera.pdf](https://github.com/raj0ds/Rajeev_Anand_resume/files/7903589/Data.Science.Capstone.Coursera.pdf)
