@@ -1,3 +1,6 @@
+[IBM Data Science Specialization.pdf](https://github.com/raj0ds/Rajeev_Anand_resume/files/7903759/IBM.Data.Science.Specialization.pdf)
+
+
 [What is Data Science Certificate by IBM.pdf](https://github.com/Raj71119/Certificates-Badges-link/files/7143012/What.is.Data.Science.Certificate.by.IBM.pdf)
 
 [Coursera Data Science Methedology Certificate.pdf](https://github.com/Raj71119/Certificates-Badges-link/files/7143008/Coursera.Data.Science.Methedology.Certificate.pdf)
